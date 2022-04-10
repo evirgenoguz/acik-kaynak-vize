@@ -5,7 +5,7 @@
 
 - Git üzerinden kodlarımızı oluşturduğumuz klasöre klonlamamız gerekiyor bunun için konsol komutumuz ise:
 
-`$ https://github.com/evirgenoguz/acik-kaynak-vize.git`
+`$ git clone https://github.com/evirgenoguz/acik-kaynak-vize.git`
 
 - Kodlarımız indikten sonra yapmamız gereken indirdiğimiz image'i çalıştırmamız gerekiyor.
 
